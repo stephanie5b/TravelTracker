@@ -1,0 +1,7 @@
+6
+Air,France,Paris,Dec 10 2020,Jan 5 2021,5,Delta,Hilton,A123456,1260.50,5000
+Air,France,Lyon,Dec 10 2020,Jan 5 2021,6,Southwest,Marriott,B123456,1260.50,5500
+Air,England,London,Dec 5 2020,Jan 1 2021,7,American Airlines,Embassy Suites,C123456,750.00,6000
+Land,Canada,Montreal,Dec 30 2020,Jan 30 2021,8,Aloft,380.00,1000,"Gas"
+Land,Canada,Toronto,Dec 30 2020,Jan 30 2021,8,Marriott,350.00,1200,"Electric"
+Air,Italy,Rome,Dec 14 2020,Jan 2 2021,7,Delta,Hilton,F123456,1100.00,4500
